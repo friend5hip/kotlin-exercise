@@ -1,5 +1,7 @@
 package org.example
 
+import java.util.Scanner
+
 fun main() {
     val sc = Scanner(System.`in`) // in은 backtick으로 감싸줘야 합니다.
 
